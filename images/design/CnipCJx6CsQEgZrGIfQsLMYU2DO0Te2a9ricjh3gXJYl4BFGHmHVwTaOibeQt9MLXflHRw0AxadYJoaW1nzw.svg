@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1194 280 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 10px;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_1_3" data-name="Symbol 1 – 3" transform="translate(625 24)">
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-1" transform="translate(569 256)">
+      <rect class="cls-4" width="70.423" height="70.423"/>
+      <rect class="cls-5" x="5" y="5" width="60.423" height="60.423"/>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" class="cls-2" transform="translate(598.577 285.577)">
+      <rect class="cls-4" width="70.423" height="70.423"/>
+      <rect class="cls-5" x="5" y="5" width="60.423" height="60.423"/>
+    </g>
+    <g id="Rectangle_3" data-name="Rectangle 3" class="cls-3" transform="translate(615.775 291.507)">
+      <rect class="cls-4" width="7" height="11.972"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="6" height="10.972"/>
+    </g>
+    <g id="Rectangle_4" data-name="Rectangle 4" class="cls-3" transform="translate(615.775 309.93)">
+      <rect class="cls-4" width="7" height="11.972"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="6" height="10.972"/>
+    </g>
+  </g>
+</svg>
